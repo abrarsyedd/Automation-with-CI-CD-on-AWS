@@ -69,3 +69,5 @@ Define a pipeline in **AWS CodePipeline** with these stages:
 - Delivered a **robust and elastic architecture** that scales with user demand.
 - Improved **deployment speed and reliability**, reducing human errors.
 
+## 📸 Architecture Diagram
+![AWS Architecture](../images/cicd-arch.png)
