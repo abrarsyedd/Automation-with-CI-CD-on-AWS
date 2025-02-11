@@ -1,5 +1,8 @@
 # Project Steps: Automation with CI/CD on AWS
 
+## 🚀 Project Overview
+This project demonstrates the implementation of a fully automated CI/CD pipeline on AWS. The pipeline integrates GitHub as the source repository, CodePipeline for orchestration, CodeDeploy for automated deployment, and an infrastructure leveraging ALB and Auto Scaling to achieve seamless and reliable application delivery.
+
 ## 🌟 Key Features of the Project
 - **Continuous Integration**: GitHub repository triggers CodePipeline for automated builds.
 - **Continuous Deployment**: Deployments are automated using AWS CodeDeploy.
