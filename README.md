@@ -8,5 +8,7 @@
 - Load balancing via Application Load Balancer (ALB)
 - Real-time monitoring with CloudWatch and notifications via SNS
 
-📖 Detailed Project Steps
+## 📖 Detailed Project Steps
 Find the full implementation guide in [docs/project_steps.md](docs/project_steps.md).
+
+🔗 [View the full project documentation](docs/project_steps.md)
