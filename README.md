@@ -3,10 +3,10 @@
 🚀 Automating the software development lifecycle on AWS with a robust CI/CD pipeline for continuous delivery.
 
 🌟 Features
-- **AWS Services**: CodePipeline, CodeDeploy, EC2, Auto Scaling, Application Load Balancer (ALB), CloudWatch, SNS.
-- **Version Control**: GitHub
-- **Programming Language**: Node.js
-- **Frontend**: HTML5, CSS3, JavaScript
+- End-to-end CI/CD pipeline using AWS CodePipeline and CodeDeploy
+- Automated deployment to EC2 instances with Auto Scaling
+- Load balancing via Application Load Balancer (ALB)
+- Real-time monitoring with CloudWatch and notifications via SNS
 
 📖 Detailed Project Steps
 Find the full implementation guide in [docs/project_steps.md](docs/project_steps.md).
